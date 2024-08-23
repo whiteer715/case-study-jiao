@@ -1,0 +1,6 @@
+Hello, Qt!
+123	45.67
+Hello, Qt!
+123	45.67Hello, Qt!
+123	45.67Hello, Qt!
+123	45.67
